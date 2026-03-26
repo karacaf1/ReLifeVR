@@ -1,3 +1,6 @@
+// VR hand input and object grabbing system.
+// This file handles controller input, grab mechanics, hand-to-object attachment, and height adjustment for VR interactions.
+
 // ===== VR HAND GRAB COMPONENT =====
 AFRAME.registerComponent("vr-hand-grab", {
 
